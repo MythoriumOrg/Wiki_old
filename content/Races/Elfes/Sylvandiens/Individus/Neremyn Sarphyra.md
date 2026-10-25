@@ -53,4 +53,4 @@ ___
 
 ## Histoire
 
-![[Histoires/Old/06 - Ère de la Diversification/Neremyn Sarphyra|Neremyn Sarphyra]]
+![[Races/Messagers Divins/Histoires/Old/06 - Ère de la Diversification/Neremyn Sarphyra|Neremyn Sarphyra]]

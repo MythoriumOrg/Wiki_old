@@ -45,4 +45,4 @@ Halamar est souvent perçu comme une figure austère, son visage impassible et s
 
 ## Histoire
 
-![[Histoires/Old/06 - Ère de la Diversification/Halamar Sarphyra|Halamar Sarphyra]]
+![[Races/Messagers Divins/Histoires/Old/06 - Ère de la Diversification/Halamar Sarphyra|Halamar Sarphyra]]

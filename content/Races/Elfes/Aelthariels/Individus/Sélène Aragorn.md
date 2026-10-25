@@ -49,4 +49,4 @@ Sélène Aragorn incarne parfaitement l’esprit de Lysandor : une fusion harm
 
 ## Histoire
 
-![[Histoires/Old/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]]
+![[Races/Messagers Divins/Histoires/Old/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]]

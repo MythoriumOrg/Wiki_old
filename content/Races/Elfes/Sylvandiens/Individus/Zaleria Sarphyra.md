@@ -56,4 +56,4 @@ ___
 
 ## Histoire
 
-![[Histoires/Old/06 - Ère de la Diversification/Zaleria Sarphyra|Zaleria Sarphyra]]
+![[Races/Messagers Divins/Histoires/Old/06 - Ère de la Diversification/Zaleria Sarphyra|Zaleria Sarphyra]]

@@ -95,12 +95,12 @@ draft: true
 - [ ] mettre dates dans props
 # Histoires
 ## Old
-### [[Histoires/Old/01 - Ère des Dieux/La Prêtresse Blanche|La Prêtresse Blanche]]
+### [[Races/Messagers Divins/Histoires/Old/01 - Ère des Dieux/La Prêtresse Blanche|La Prêtresse Blanche]]
 - [ ] refaire la page sous forme de légende et pas d'histoire
 - [ ] mettre les proprs
 - [ ] le type et sous type dans les props
 - [ ] mettre dans une catégorie a part
-### [[Histoires/Old/03 - Ère des Elfes/Eliara Maewen|Eliara Maewen]] et [[Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
+### [[Races/Messagers Divins/Histoires/Old/03 - Ère des Elfes/Eliara Maewen|Eliara Maewen]] et [[Races/Messagers Divins/Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
 - [ ] faire leur histoire commune, virer ces deux pages la
 - [ ] avoir une page de description d'histoire comme celles existantes
 - [ ] publier le bouquin dans Stories.myth

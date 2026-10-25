@@ -53,4 +53,4 @@ ___
 
 ## Histoire
 
-![[Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
+![[Races/Messagers Divins/Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
